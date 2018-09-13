@@ -31,3 +31,9 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.third_section h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+}
