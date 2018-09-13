@@ -1,20 +1,33 @@
 body {
   text-align: center;
+  font-family: Helvetica;
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color:white;
 }
 
 .menu {
-  font-family: Helvetica;
   font-size: 18px;
   color:white;
 }
 
 .header {
   background-image: url("/Users/balazs/Desktop/Codecademy-projects/gitwebsite/fbalazs99.github.io/broadway/resources/the-flatiron-building.png");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
