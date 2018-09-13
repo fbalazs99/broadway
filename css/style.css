@@ -35,5 +35,19 @@ p {
 .third_section h2 {
   font-size: 23px;
   font-weight: bold;
+  color: white;
+  background-image: url("/Users/balazs/Desktop/Codecademy-projects/gitwebsite/fbalazs99.github.io/broadway/resources/the-flatiron-building.png");
+}
+
+.footer span {
+  font-size: 11px;
   color:white;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
 }
